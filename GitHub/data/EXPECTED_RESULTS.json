@@ -1,0 +1,20 @@
+{
+  "unique_records": 1272,
+  "modelled_documents": 1249,
+  "rejected_documents": 23,
+  "terms": 3864,
+  "selected_K": 3,
+  "documents_per_topic": [
+    502,
+    430,
+    317
+  ],
+  "composite_index": [
+    81.65,
+    70.4,
+    53.09
+  ],
+  "topic1_D03_percent": 5.78,
+  "topic1_D01_percent": 3.98,
+  "whole_corpus_records_with_a_guideline": 114
+}
